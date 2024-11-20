@@ -94,4 +94,8 @@ app.get('/UploadForm.html', (req, res) => {
     `;
     res.status(200).send(upload_form);
 });
+app.listen(options.port, options.host, () => {
+    console.log(`Server is running at http://${options.host}:${options.port}`);
+    console.log(`Cache directory: ${options.cache}`);
+});
 
