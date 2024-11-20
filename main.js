@@ -68,7 +68,6 @@ app.post('/write', (req, res) => {
     }
 });
 
-// Serve UploadForm.html as a static file
 app.get('/UploadForm.html', (req, res) => {
     res.status(200).sendFile(path.join(__dirname, 'UploadForm.html'));
 });
