@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98af805f-e4d0-4985-a659-49f832151074" name="Changes" comment="1 part">
+    <list default="true" id="98af805f-e4d0-4985-a659-49f832151074" name="Changes" comment="3 part">
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -54,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732138375324</updated>
-      <workItem from="1732138376403" duration="3626000" />
+      <workItem from="1732138376403" duration="4493000" />
     </task>
     <task id="LOCAL-00001" summary="1 part">
       <option name="closed" value="true" />
@@ -64,7 +66,47 @@
       <option name="project" value="LOCAL" />
       <updated>1732139287166</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2 part">
+      <option name="closed" value="true" />
+      <created>1732142136281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732142136281</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3 part">
+      <option name="closed" value="true" />
+      <created>1732142218616</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732142218616</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3 part">
+      <option name="closed" value="true" />
+      <created>1732142228078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732142228078</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3 part">
+      <option name="closed" value="true" />
+      <created>1732142237614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732142237614</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3 part">
+      <option name="closed" value="true" />
+      <created>1732142244527</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732142244527</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 part" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 part" />
+    <MESSAGE value="2 part" />
+    <MESSAGE value="3 part" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 part" />
   </component>
 </project>
