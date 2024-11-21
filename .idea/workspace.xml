@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98af805f-e4d0-4985-a659-49f832151074" name="Changes" comment="3 part" />
+    <list default="true" id="98af805f-e4d0-4985-a659-49f832151074" name="Changes" comment="tests">
+      <change beforePath="$PROJECT_DIR$/bc2024-5-notes.json" beforeDir="false" afterPath="$PROJECT_DIR$/collection.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web-backend\lab5\bc2024-5" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732138375324</updated>
-      <workItem from="1732138376403" duration="7347000" />
+      <workItem from="1732138376403" duration="8267000" />
     </task>
     <task id="LOCAL-00001" summary="1 part">
       <option name="closed" value="true" />
@@ -121,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732145317660</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="tests">
+      <option name="closed" value="true" />
+      <created>1732147150805</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732147150805</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +146,7 @@
     <MESSAGE value="1 part" />
     <MESSAGE value="2 part" />
     <MESSAGE value="3 part" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 part" />
+    <MESSAGE value="tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests" />
   </component>
 </project>
